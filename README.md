@@ -7,6 +7,7 @@ Public, evergreen reference notes by [Ashar Farooq](https://ashar.vercel.app). E
 | Knowledge base | What's in it |
 |---|---|
 | [Tech Concepts](tech-concepts/) | Plain-language explanations of the infrastructure, web and AI concepts behind everyday software. |
+| [MIT](mit/) | MIT's course numbers, academics, campus, traditions, hacks and vocabulary. |
 
 ### Planned
 
